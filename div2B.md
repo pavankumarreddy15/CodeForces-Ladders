@@ -10,21 +10,21 @@
 | 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 | s |
 | 9 | [Buying a TV Set](https://codeforces.com/problemset/problem/1041/B) | 1100 | s |
 | 10 | [Badges](https://codeforces.com/problemset/problem/1214/B) | 1100 | s |
-| 11 | [Nauuo and Chess](https://codeforces.com/problemset/problem/1173/B) | 1100 |  |
-| 12 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B) | 1100 |  |
-| 13 | [Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B) | 1100 |  |
-| 14 | [Minesweeper](https://codeforces.com/problemset/problem/984/B) | 1100 |  |
-| 15 | [Weird Rounding](https://codeforces.com/problemset/problem/779/B) | 1100 |  |
-| 16 | [Perfect Number](https://codeforces.com/problemset/problem/919/B) | 1100 |  |
-| 17 | [Sport Mafia](https://codeforces.com/problemset/problem/1195/B) | 1100 |  |
-| 18 | [Pair of Toys](https://codeforces.com/problemset/problem/1023/B) | 1100 |  |
-| 19 | [Hamster Farm](https://codeforces.com/problemset/problem/939/B) | 1100 |  |
-| 20 | [Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B) | 1100 |  |
-| 21 | [Polycarp and Letters](https://codeforces.com/problemset/problem/864/B) | 1100 |  |
-| 22 | [Chocolates](https://codeforces.com/problemset/problem/1139/B) | 1100 |  |
-| 23 | [The Eternal Immortality](https://codeforces.com/problemset/problem/869/B) | 1100 |  |
-| 24 | [Getting an A](https://codeforces.com/problemset/problem/991/B) | 1100 |  |
-| 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 |  |
+| 11 | [Nauuo and Chess](https://codeforces.com/problemset/problem/1173/B) | 1100 | s |
+| 12 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B) | 1100 | s |
+| 13 | [Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B) | 1100 | s |
+| 14 | [Minesweeper](https://codeforces.com/problemset/problem/984/B) | 1100 | s |
+| 15 | [Weird Rounding](https://codeforces.com/problemset/problem/779/B) | 1100 | s |
+| 16 | [Perfect Number](https://codeforces.com/problemset/problem/919/B) | 1100 | s |
+| 17 | [Sport Mafia](https://codeforces.com/problemset/problem/1195/B) | 1100 | s |
+| 18 | [Pair of Toys](https://codeforces.com/problemset/problem/1023/B) | 1100 | s |
+| 19 | [Hamster Farm](https://codeforces.com/problemset/problem/939/B) | 1100 | s |
+| 20 | [Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B) | 1100 | s |
+| 21 | [Polycarp and Letters](https://codeforces.com/problemset/problem/864/B) | 1100 | s |
+| 22 | [Chocolates](https://codeforces.com/problemset/problem/1139/B) | 1100 | s |
+| 23 | [The Eternal Immortality](https://codeforces.com/problemset/problem/869/B) | 1100 | s |
+| 24 | [Getting an A](https://codeforces.com/problemset/problem/991/B) | 1100 | s |
+| 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 | s |
 | 26 | [Serval and Toy Bricks](https://codeforces.com/problemset/problem/1153/B) | 1200 |  |
 | 27 | [A Prosperous Lot](https://codeforces.com/problemset/problem/934/B) | 1200 |  |
 | 28 | [Email from Polycarp](https://codeforces.com/problemset/problem/1185/B) | 1200 |  |
