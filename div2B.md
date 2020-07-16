@@ -25,11 +25,11 @@
 | 23 | [The Eternal Immortality](https://codeforces.com/problemset/problem/869/B) | 1100 | s |
 | 24 | [Getting an A](https://codeforces.com/problemset/problem/991/B) | 1100 | s |
 | 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 | s |
-| 26 | [Serval and Toy Bricks](https://codeforces.com/problemset/problem/1153/B) | 1200 |  |
-| 27 | [A Prosperous Lot](https://codeforces.com/problemset/problem/934/B) | 1200 |  |
-| 28 | [Email from Polycarp](https://codeforces.com/problemset/problem/1185/B) | 1200 |  |
-| 29 | [Ehab Is an Odd Person](https://codeforces.com/problemset/problem/1174/B) | 1200 |  |
-| 30 | [Blown Garland](https://codeforces.com/problemset/problem/758/B) | 1200 |  |
+| 26 | [Serval and Toy Bricks](https://codeforces.com/problemset/problem/1153/B) | 1200 | s |
+| 27 | [A Prosperous Lot](https://codeforces.com/problemset/problem/934/B) | 1200 | s |
+| 28 | [Email from Polycarp](https://codeforces.com/problemset/problem/1185/B) | 1200 | s |
+| 29 | [Ehab Is an Odd Person](https://codeforces.com/problemset/problem/1174/B) | 1200 | s |
+| 30 | [Blown Garland](https://codeforces.com/problemset/problem/758/B) | 1200 | s |
 | 31 | [Godsend](https://codeforces.com/problemset/problem/841/B) | 1200 |  |
 | 32 | [Planning The Expedition](https://codeforces.com/problemset/problem/1011/B) | 1200 |  |
 | 33 | [LCM](https://codeforces.com/problemset/problem/1068/B) | 1200 |  |
