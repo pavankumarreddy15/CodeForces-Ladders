@@ -30,15 +30,15 @@
 | 28 | [Email from Polycarp](https://codeforces.com/problemset/problem/1185/B) | 1200 | s |
 | 29 | [Ehab Is an Odd Person](https://codeforces.com/problemset/problem/1174/B) | 1200 | s |
 | 30 | [Blown Garland](https://codeforces.com/problemset/problem/758/B) | 1200 | s |
-| 31 | [Godsend](https://codeforces.com/problemset/problem/841/B) | 1200 |  |
-| 32 | [Planning The Expedition](https://codeforces.com/problemset/problem/1011/B) | 1200 |  |
-| 33 | [LCM](https://codeforces.com/problemset/problem/1068/B) | 1200 |  |
-| 34 | [Mancala](https://codeforces.com/problemset/problem/975/B) | 1200 |  |
-| 35 | [High School: Become Human](https://codeforces.com/problemset/problem/987/B) | 1200 |  |
-| 36 | [Cutting](https://codeforces.com/problemset/problem/998/B) | 1200 |  |
-| 37 | [Chloe and the sequence ](https://codeforces.com/problemset/problem/743/B) | 1200 |  |
-| 38 | [Wrath](https://codeforces.com/problemset/problem/892/B) | 1200 |  |
-| 39 | [Kvass and the Fair Nut](https://codeforces.com/problemset/problem/1084/B) | 1200 |  |
+| 31 | [Godsend](https://codeforces.com/problemset/problem/841/B) | 1200 | s |
+| 32 | [Planning The Expedition](https://codeforces.com/problemset/problem/1011/B) | 1200 | s |
+| 33 | [LCM](https://codeforces.com/problemset/problem/1068/B) | 1200 | s |
+| 34 | [Mancala](https://codeforces.com/problemset/problem/975/B) | 1200 | s |
+| 35 | [High School: Become Human](https://codeforces.com/problemset/problem/987/B) | 1200 | s |
+| 36 | [Cutting](https://codeforces.com/problemset/problem/998/B) | 1200 | s |
+| 37 | [Chloe and the sequence ](https://codeforces.com/problemset/problem/743/B) | 1200 | s |
+| 38 | [Wrath](https://codeforces.com/problemset/problem/892/B) | 1200 | s |
+| 39 | [Kvass and the Fair Nut](https://codeforces.com/problemset/problem/1084/B) | 1200 | s |
 | 40 | [Draw!](https://codeforces.com/problemset/problem/1131/B) | 1300 |  |
 | 41 | [Filling the Grid](https://codeforces.com/problemset/problem/1228/B) | 1300 |  |
 | 42 | [Mahmoud and Ehab and the message](https://codeforces.com/problemset/problem/959/B) | 1300 |  |
